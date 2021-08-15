@@ -1,0 +1,84 @@
+
+#
+ include : identifier
+ relational operator <s
+ stdio : identifier
+.
+ h : identifier
+ relational operator >  
+ int : keyword 
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ i : identifier
+,
+ fact : identifier 
+1: number
+,
+ number : identifier
+;
+ printf : identifier
+(
+"
+ Enter : identifier
+ a : identifier
+ number : identifier
+:
+"
+)
+;
+ scanf : identifier
+(
+"
+%
+ d : identifier
+"
+,
+&
+ number : identifier
+)
+; 
+ for : keyword 
+(
+ i : identifier 
+1: number
+;
+ i : identifier
+ relational operator <=
+ number : identifier
+;
+ i : identifier
++
++
+)
+{
+ fact : identifier
+ fact : identifier
+*
+ i : identifier
+;
+}
+ printf : identifier
+(
+"
+ Factorial : identifier
+ of : identifier
+%
+ d : identifier
+ is : identifier
+:
+%
+ d : identifier
+"
+,
+ number : identifier
+,
+ fact : identifier
+)
+;
+ return : identifier 
+0: number
+;
+}
